@@ -1,13 +1,6 @@
 var express = require('express');
 var router = express.Router();
 
-// router.post('/', function(req, res, next) {
-
-//   console.log(process.env.SIB_API_KEY);
-
-//   res.json({requestBody: req.body});
-// });
-
 // {
 //   contact: {
 //     collectivite: 'Wat',
